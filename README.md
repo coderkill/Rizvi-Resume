@@ -24,7 +24,6 @@ Singapore
 - C++
 - C
 - PHP
-- React JS
 - Angular 7
 
 ## Work Experience
