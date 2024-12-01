@@ -7,6 +7,14 @@ Singapore
 
 ## Key Areas of Expertise | Technical Proficiencies
 - Software Development Lifecycle (SDLC)
+- Java (Core Java, Spark, Spring Boot, Low Latency Architecture)
+- Python 3
+- RDBMS
+- Linux OS
+- C++
+- C
+- PHP
+- Angular 7
 - Code Performance Optimization
 - Data Visualization
 - Agile Methodologies
@@ -17,14 +25,6 @@ Singapore
 - Website Design & Development
 - Software Architecture & Security
 - Continuous Integration & Deployment
-- Java (Core Java, Spark, Spring Boot, Low Latency Architecture)
-- Python 3
-- RDBMS
-- Linux OS
-- C++
-- C
-- PHP
-- Angular 7
 
 ## Work Experience
 
