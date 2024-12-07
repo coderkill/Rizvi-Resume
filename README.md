@@ -1,7 +1,7 @@
 # Rizvi Syed
 
 Full-Stack Software Development | IT Project Management  
-Singapore  
+Bahrain  
 📧 rizvi1997@gmail.com  
 🔗 [LinkedIn: Rizvi Syed](https://www.linkedin.com/in/rizvisyed1997/)
 
