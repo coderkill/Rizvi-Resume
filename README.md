@@ -30,7 +30,7 @@ Singapore
 ## Work Experience
 
 ### Senior Software Developer
-**Array Innovation** – Bahrain| Oct 2024 – Present
+**Array Innovation** – Bahrain | Oct 2024 – Present
 - Leading the development of a CV and Hiring workflow engine, leveraging cutting-edge technologies and services to streamline recruitment processes on the cloud(AWS).
 
 ### Deputy Manager (Software Developer)  
