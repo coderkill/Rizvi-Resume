@@ -11,6 +11,7 @@ Singapore
 - Python 3
 - RDBMS
 - Linux OS
+- AWS
 - C++
 - C
 - PHP
@@ -28,8 +29,12 @@ Singapore
 
 ## Work Experience
 
+### SENIOR SOFTWARE DEVELOPER
+**Array Innovation** – Bahrain| Oct 2024 – Present
+- Leading the development of a CV and Hiring workflow engine, leveraging cutting-edge technologies and services to streamline recruitment processes on the cloud(AWS).
+
 ### Deputy Manager (Software Developer)  
-**Olam Group (Olam Financial Services)** – Singapore | Nov 2022 – Present
+**Olam Group (Olam Financial Services)** – Singapore | Nov 2022 – July 2022
 
 - Designed and integrated Dash and P&L engines using Bloomberg API and Hibernate.
 - Created a multi-threaded application to optimize handling of massive historical datasets from Bloomberg.
