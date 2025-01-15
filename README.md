@@ -31,7 +31,10 @@ Bahrain
 
 ### Senior Software Developer
 **Array Innovation** – Bahrain | Oct 2024 – Present
+- Working on Array portal to provide control and functionality to a custom Array world mobile application.
 - Leading the development of a CV and Hiring workflow engine, leveraging cutting-edge technologies and services to streamline recruitment processes on the cloud(AWS).
+
+
 
 ### Deputy Manager (Software Developer)  
 **Olam Group (Olam Financial Services)** – Singapore | Nov 2022 – July 2024
